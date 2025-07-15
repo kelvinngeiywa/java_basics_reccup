@@ -29,8 +29,8 @@ public class SwitchCalculator {
                 break;
 
             case '-':
-                int substarction = number1 - number2;
-                System.out.println("The difference between "+ number1 + " and "+ number2 + " is: " + substarction);
+                int substraction = number1 - number2;
+                System.out.println("The difference between "+ number1 + " and "+ number2 + " is: " + substraction);
                 break;
 
             case '%':
