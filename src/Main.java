@@ -24,7 +24,10 @@ public class Main {
 //        System.out.println("The number is "+ num1);
 //        System.out.println("The number with decimal is " + decimal1);
 
-        scanner.close();
+//        scanner.close();
+        int num1=5;
+        String isOdd= (num1 % 2 == 0) ? "It's even" : "It's odd";
+        System.out.println(isOdd);
 
         //stack memory
         //heap memory
